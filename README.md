@@ -1,4 +1,4 @@
-# Marvellous Study Tracker App
+# Study Tracker App
 
 ## 🚀 Overview
 The **Study Tracker App** is a console-based Java application designed to help students systematically log, track, summarize, and export their study activities. It features real-time data aggregation using advanced data structures and supports data persistence via CSV generation.
